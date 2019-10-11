@@ -2,7 +2,7 @@
 
 namespace DixonBriones3A
 {
-    class Program
+    class Menu
     {
         static void Main(string[] args)
         {
